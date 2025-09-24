@@ -21,4 +21,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prathamesh7120&show_icons=true&locale=en" alt="prathamesh7120" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prathamesh7120&" alt="prathamesh7120" /></p>  please attractive design give me  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prathamesh7120&" alt="prathamesh7120" /></p> 
