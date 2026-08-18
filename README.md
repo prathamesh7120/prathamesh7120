@@ -1,60 +1,202 @@
 <div align="center">
 
-# Hi, I'm Prathamesh Chavan 👋
+<!-- Waving Header -->
 
-**Java Full Stack Developer** — Spring Boot · React · PostgreSQL
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=220&section=header&text=Prathamesh%20Chavan&fontSize=55&fontColor=0f172a&animation=twinkling&fontAlignY=35&desc=Java%20Full%20Stack%20Developer&descAlignY=55&descSize=22" width="100%"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-SLUG)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@gmail.com)
-[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Pune%20%26%20Remote-22c55e?style=flat-square)](#)
+<!-- Typing Animation -->
+
+<a href="https://github.com/prathamesh7120">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=750&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React.js+%7C+PostgreSQL;Building+secure+RESTful+APIs;SmartSplit+%7C+SkillForge" alt="Typing SVG"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/prathamesh7120">
+  <img src="https://img.shields.io/badge/Open%20to%20Work-7dd3fc?style=for-the-badge&logo=github&logoColor=0f172a&labelColor=0f172a" alt="Open to Work"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=prathamesh7120&color=7dd3fc&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+<a href="https://github.com/prathamesh7120?tab=followers">
+  <img src="https://img.shields.io/github/followers/prathamesh7120?style=for-the-badge&color=7dd3fc&labelColor=0f172a&label=FOLLOWERS" alt="GitHub Followers"/>
+</a>
 
 </div>
 
----
+👨‍💻 Who I Am
 
-## 🔨 Currently Building
+const prathamesh = {
+  title: "Java Full Stack Developer",
+  stack: [
+    "Java",
+    "Spring Boot",
+    "Spring Security",
+    "Hibernate/JPA",
+    "React.js",
+    "JavaScript",
+    "MySQL",
+    "PostgreSQL",
+    "MongoDB"
+  ],
+  launchedProjects: ["SmartSplit", "SkillForge"],
+  certifications: ["Full Stack Java Development — Do It Infosystems, 2025"],
+  status: "Open to Work",
+  openTo: "Java Full Stack Developer opportunities"
+};
 
-| Project | Stack | Status |
-|---------|-------|--------|
-| [MediConnect Pro](https://github.com/prathamesh7120/mediconnect-pro) | Spring Boot 3 · React 19 · PostgreSQL · JWT | 🔄 In progress |
-| [FinTrackr](https://github.com/prathamesh7120/fintrackr) | Spring Boot · React · MongoDB · Redis | 📋 Coming soon |
+🚀 Featured Projects
 
----
+💰 SmartSplit — Expense Intelligence Platform
 
-## 🛠️ Tech Stack
+<a href="https://github.com/prathamesh7120/SmartSplit">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prathamesh7120&repo=SmartSplit&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" alt="SmartSplit Repository"/>
+</a>
 
-**Backend**
+Layer
 
-![Java](https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+Technology
 
-**Frontend**
+Backend
 
-![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+Spring Boot 3, Hibernate/JPA, JWT, Spring Security
 
-**Databases & Tools**
+Frontend
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+React 18
 
----
+Database
 
-## 📊 GitHub Stats
+PostgreSQL
+
+Deployment
+
+Vercel
+
+Highlights: 12 RESTful APIs, JWT authentication, group expense tracking for up to 50 members, spend dashboard, PDF export, rate limiting, and audit logging.
+
+Live: SmartSplit Live Demo
+Code: SmartSplit on GitHub
+
+🧑‍💻 SkillForge — Developer Skill Assessment Platform
+
+<a href="https://github.com/prathamesh7120/SkillForge">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prathamesh7120&repo=SkillForge&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" alt="SkillForge Repository"/>
+</a>
+
+Layer
+
+Technology
+
+Backend
+
+Spring Boot 3, Spring Security, Quartz Scheduler, JWT
+
+Frontend
+
+React 18
+
+Database
+
+PostgreSQL
+
+Deployment
+
+Vercel
+
+Highlights: 3-role assessment platform for Candidate, Recruiter, and Admin; timed coding assessments, auto-scoring, shareable skill certificates, refresh-token rotation, question randomization, anti-cheat tab detection, and email invitations.
+
+Live: SkillForge Live Demo
+Code: SkillForge on GitHub
+
+🛠️ Tech Stack
+
+Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,javascript,html,css" alt="Languages"/>
+</p>
+
+Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,bootstrap" alt="Frontend"/>
+</p>
+
+Backend / Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,hibernate" alt="Backend"/>
+</p>
+
+Cloud / Deployment
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vercel" alt="Cloud and Deployment"/>
+</p>
+
+AI / Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" alt="Databases"/>
+</p>
+
+Dev Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,idea,vscode,postman" alt="Developer Tools"/>
+</p>
+
+📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prathamesh7120&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=prathamesh7120&theme=dark&hide_border=true" height="160"/>
+
+<a href="https://github.com/prathamesh7120">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=prathamesh7120&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=7dd3fc" alt="Prathamesh's GitHub Stats"/>
+</a>
+<a href="https://github.com/prathamesh7120">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathamesh7120&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=7dd3fc" alt="Top Languages"/>
+</a>
+
 </div>
 
----
+🔥 Streak Stats
 
 <div align="center">
-  <sub>📍 Pune, Maharashtra · Open to Java Developer roles in Pune & Remote</sub>
+  <img src="https://streak-stats.demolab.com?user=prathamesh7120&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc&sideLabels=7dd3fc&dates=7dd3fc" alt="GitHub Streak"/>
+</div>
+
+🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=prathamesh7120&theme=nord&no-frame=true&no-bg=true&margin-w=8" alt="GitHub Trophies"/>
+</div>
+
+📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prathamesh7120&theme=nord&bg_color=0f172a&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&hide_border=true" alt="Contribution Activity Graph"/>
+</div>
+
+🤝 Connect With Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/prathameshchavan-dev/">
+    <img src="https://img.shields.io/badge/LinkedIn-7dd3fc?style=for-the-badge&logo=linkedin&logoColor=0f172a&labelColor=0f172a" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:chavanprathamesh813@gmail.com">
+    <img src="https://img.shields.io/badge/Email-7dd3fc?style=for-the-badge&logo=gmail&logoColor=0f172a&labelColor=0f172a" alt="Email"/>
+  </a>
+  <a href="https://github.com/prathamesh7120">
+    <img src="https://img.shields.io/badge/GitHub-7dd3fc?style=for-the-badge&logo=github&logoColor=0f172a&labelColor=0f172a" alt="GitHub"/>
+  </a>
+</div>
+
+<div align="center">
+
+<!-- Waving Footer -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=120&section=footer" width="100%"/>
+
 </div>
