@@ -75,7 +75,7 @@ const prathamesh = {
 ### 🚀 Java Full Stack Developer Intern
 
 **Fourise Software Solution — Pune**
-`Feb 2026 – Present`
+`Feb 2026 – Aug 2026`
 
 * 🚀 Shipped **3 production modules** using Spring Boot and React.js.
 * 🏗️ Independently worked on backend API design, database schema, and responsive frontend UI.
